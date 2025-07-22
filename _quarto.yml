@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs       # Critical: Output goes to /docs
+  resources:
+    - Quarto_imported_files
+
+format:
+  html:
+    self-contained: false
+    css: styles.css      # Link custom CSS if needed
+    include-in-header: header.html
+
+website:
+  title: Cyclistic case study report
+  
