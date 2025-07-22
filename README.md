@@ -15,4 +15,4 @@ Note: Data files are excluded from this repo due to size/privacy.
 ### results
 The report is in html format rendered by [`Cyclistic_report.qmd`](Cyclistic_report.qmd) Due to the large size of the data, all plots and serialized R objects (RDS files) were generated and saved in the [main R script](R_main_code.R).
 In the Quarto document, these files are loaded for visualization purposes only, and the embedded code is primarily for presentation rather than computation.
-To view the report click [here](https://github.com/Sinamoba/Cyclistic_Case_Study/deployments/github-pages)
+To view the report click [here](https://sinamoba.github.io/Cyclistic_Case_Study/Cyclistic_report.html)
